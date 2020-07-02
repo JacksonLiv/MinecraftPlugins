@@ -1,0 +1,17 @@
+#######################################################################
+#                                                                     #
+#                          AdminControlPanel                          #
+#                                                                     #
+#######################################################################
+
+#\\Ban Lengths//#
+#The entered value is multiplied by the amount of offenses of the same player#
+#Enter -1 if you want the ban to be a Permanent Ban.#
+#Enter your ban length in days.#
+disrespect-spam: 3
+inappropriate-skin-name: 5
+scamming-advertising: 10
+exploiting: 10
+xray-hacking: 15
+pvp-hacking: 30
+movement-hacking: 30

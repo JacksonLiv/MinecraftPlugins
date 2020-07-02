@@ -1,0 +1,19 @@
+name: AdminControlPanel
+api-version: 1.13
+version: 0.1
+main: me.jackson.AdminControlPanel.Main
+description: A fully customizable panel for admins.
+author: Jackson
+commands:
+   aconline:
+      description: Shows interactive GUI of online players.
+      aliases: [aco]
+   acplayer:
+      description: Shows a GUI of controls for a specified player.
+      aliases: [acp]
+   acban:
+      description: Opens banning GUI for specified player.
+      aliases: [acb]
+   acwarn:
+      description: Sends a warning to the specified player for a specified reason.
+      aliases: [acw]
