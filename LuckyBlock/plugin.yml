@@ -1,0 +1,9 @@
+name: LuckyBlock
+version: 0.0.5
+main: me.jackson.lbsg.Main
+Author: Jackson 
+Description: hypixel lucky blocks
+commands:
+  luckyblock:
+    aliases: lb
+    description: Give yourself lucky blocks. Usage is /luckyblock give (type) (amount)
