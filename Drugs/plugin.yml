@@ -1,0 +1,32 @@
+name: Drugs
+version: 1.0
+main: me.jackson.drugs.Main
+author: Jackson
+description: Adds all your favorite drugs to minecraft.
+commands:
+  cocaine:
+    description: Gives player Cocaine drug.
+    usage: /cocaine (amount)
+  heroin:
+    description: Gives player Heroin drug.
+    usage: /heroin (amount)
+  narcan:
+    description: Gives player Narcan drug (Heals Heroin Overdose).
+    usage: /narcan (amount)
+  meth:
+    description: Gives player Meth drug.
+    usage: /meth (amount)
+  resetdrugusers:
+    description: Resets drug adverse effects.
+    aliases: rdu
+  alcohol:
+    description: Gives player Alcoholic beverages.
+  shroom:
+    description: Gives player Shroom drug.
+    usage: /shroom (amount)
+  weed:
+    description: Gives player Weed drug.
+    usage: /weed (amount)
+  fentanyl:
+    description: Gives player Fentanyl drug.
+    usage: /fentanyl (amount)
